@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Icon Example</string>
+    <string name="imageDescription">Test image from unDraw.co</string>
 </resources>
